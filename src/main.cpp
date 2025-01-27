@@ -3,7 +3,7 @@
 
 int main() 
 {
-    const Color darkGreen = {20, 160, 133, 255};
+    const Color darkGreen = {0, 0, 0, 0};
     
     constexpr int screenWidth = 800;
     constexpr int screenHeight = 600;
